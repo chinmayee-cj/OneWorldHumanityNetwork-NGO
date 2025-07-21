@@ -90,21 +90,6 @@ Run from within Eclipse, IntelliJ, or deploy the WAR to Tomcat on localhost or a
 
 ---
 
-## 📁 Project Structure Summary
-
-src/
-├── controller/ # Java Servlets (LoginServlet, HomeServlet, ConnectServlet, etc.)
-├── dao/ # JDBC DAO classes (volunteerDao)
-├── model/ # JavaBeans (volunteer, ConnectionEntry)
-├── util/ # EmailUtil.java
-
-WEB-INF/
-├── views/ # JSPs (login.jsp, register.jsp, home.jsp)
-├── lib/ # Third-party JARs required (JavaMail, Activation)
-
-undefined
----
-
 ## ✅ Environment Variables (Recommended)
 
 To keep sensitive data out of your repo, use environment variables:
