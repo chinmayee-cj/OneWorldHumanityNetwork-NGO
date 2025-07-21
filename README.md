@@ -16,7 +16,8 @@ Welcome to the **OneWorld HumanityNetwork Volunteer Portal** — a full-stack Ja
 
 - 💌 **Automated Acknowledgment Emails**
   - Sends a thank-you email to every volunteer on submitting a review using JavaMail + Gmail SMTP
-  - 
+  - Every volunteer who connects receives a personalized acknowledgment via JavaMail and Gmail’s secure app password system.
+
 - 🎨 **Responsive, Themed UI**
   - Built with Bootstrap 5 and a vibrant orange-yellow color scheme
   - Custom layout, shadowed cards, colorful CTAs
