@@ -30,7 +30,7 @@ Welcome to the **OneWorld HumanityNetwork Volunteer Portal** — a full-stack Ja
 
 1. **Clone this repository**
 
-git clone https://github.com/<your-username>/ngo-volunteer-portal.git
+git clone [https://github.com/<your-username>/ngo-volunteer-portal.git](https://github.com/chinmayee-cj/OneWorldHumanityNetwork-NGO)
 
 
 2. **Import into an IDE (Eclipse / IntelliJ)**
