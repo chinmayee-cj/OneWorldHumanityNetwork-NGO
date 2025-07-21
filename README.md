@@ -26,6 +26,15 @@ Welcome to the **OneWorld HumanityNetwork Volunteer Portal** — a full-stack Ja
 
 ---
 
+## 🏗️ Tech Stack
+
+- **Backend:** Java Servlets (MVC), JSP, JDBC (MySQL)
+- **Frontend:** HTML5, CSS3, Bootstrap 5, animated UI components
+- **Email:** JavaMail API using Gmail SMTP (App Passwords)
+- **Tools:** Eclipse, Tomcat
+
+---
+
 ## 🚀 Getting Started
 
 1. **Clone this repository**
